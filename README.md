@@ -1,2 +1,16 @@
-# Predictive-Analysis-using-Linear-Regression
-Explored and visualized data to understand profit patterns in different industry. Implemented Linear Regression, including the computation of cost using the cost function and gradient descent techniques, ensuring  accurate learning parameters for the model.
+# Predictive Analysis using Linear Regression
+
+## Key Highlights
+
+- Explored and visualized data to gain insights into profit patterns across various industries.
+- Implemented Linear Regression, incorporating the computation of cost using the cost function.
+- Applied gradient descent techniques to fine-tune learning parameters for the model.
+- Utilized NumPy for efficient data manipulation.
+- Leveraged Matplotlib for visualizing data and model predictions.
+
+## Tools and Libraries Used
+
+- NumPy
+- Matplotlib
+
+
